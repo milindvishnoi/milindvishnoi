@@ -4,7 +4,7 @@
 
 # I'm a Software Developer & Full-time Computer Science Student.
 
-<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 🔭 I’m currently working on [Material Math](https://material-math.netlify.app/) and [Grey Software Projects](https://github.com/grey-software)
 - 🌱 I’m currently learning React for an upcoming app, NeighborHoop
