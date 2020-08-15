@@ -1,17 +1,17 @@
 <div align="center">
-	<img src="intro.svg" alt="HI I'M, MILIND VISHNOI">
+	<img src="./intro.svg" alt="HI I'M, MILIND VISHNOI👋">
 </div>
 
 # I'm a Developer, Computer Science Student
 
-- 🔭 I’m currently working on [Material Math](materialmath) and [Grey Software Projects](grey)
+- 🔭 I’m currently working on [Material Math](https://material-math.netlify.app/) and [Grey Software Projects](https://github.com/grey-software)
 - 🌱 I’m currently learning React for an upcoming app, NeighborHoop
 - 👯 I’m looking to collaborate on iOS apps and Chrome Extensions
 - ⚡ Fun fact: I am a former national level squash player
 
 ### Connect with me:
 
-[<img align="left" alt="shawnhu.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="milindvishnoi.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -36,6 +36,4 @@
 <br />
 
 [website]: https://heuristic-chandrasekhar-bcc3f0.netlify.app/
-[materialmath]: https://material-math.netlify.app/
-[grey]: https://github.com/grey-software
 [linkedin]: https://www.linkedin.com/in/milindvishnoi/
