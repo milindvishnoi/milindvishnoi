@@ -1,5 +1,5 @@
 <div align="center">
-	<img src=".https://github.com/milindvishnoi/milindvishnoi/blob/master/intro.svg" alt="HI I'M, MILIND VISHNOI👋">
+	<img src="https://github.com/milindvishnoi/milindvishnoi/blob/master/intro.svg" alt="HI I'M, MILIND VISHNOI👋">
 </div>
 
 # I'm a Developer, Computer Science Student
