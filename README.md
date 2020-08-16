@@ -38,5 +38,5 @@
 
 <br />
 
-[website]: https://heuristic-chandrasekhar-bcc3f0.netlify.app/
+[website]: https://5f29b4f10370f00007c54cf3--milindvishnoi.netlify.app/
 [linkedin]: https://www.linkedin.com/in/milindvishnoi/
