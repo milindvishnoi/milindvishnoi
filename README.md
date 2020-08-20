@@ -37,6 +37,14 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<br />
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=milindvishnoi&show_icons=true&hide_border=true" />
+
+</details>
 
 [website]: https://5f29b4f10370f00007c54cf3--milindvishnoi.netlify.app/
 [linkedin]: https://www.linkedin.com/in/milindvishnoi/
