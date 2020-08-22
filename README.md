@@ -48,5 +48,5 @@
 
 </details>
 
-[website]: https://5f29b4f10370f00007c54cf3--milindvishnoi.netlify.app/
+[website]: http://milindvishnoi.com/
 [linkedin]: https://www.linkedin.com/in/milindvishnoi/
