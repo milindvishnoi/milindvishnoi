@@ -48,5 +48,5 @@
 
 </details>
 
-[website]: http://milindvishnoi.com/
+[website]: https://www.milindvishnoi.com/
 [linkedin]: https://www.linkedin.com/in/milindvishnoi/
