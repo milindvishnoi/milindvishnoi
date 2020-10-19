@@ -41,12 +41,8 @@
 
 <hr />
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=milindvishnoi&show_icons=true&hide_border=true" />
-
-</details>
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=milindvishnoi&show_icons=true&hide_border=true&theme=radical" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs?username=milindvishnoi&layout=compact&show_icons=true&theme=radical" />
 
 [website]: https://www.milindvishnoi.com/
 [linkedin]: https://www.linkedin.com/in/milindvishnoi/
