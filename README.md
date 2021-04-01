@@ -6,8 +6,8 @@
 
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 🔭 I’m currently working on [Material Math](https://material-math.netlify.app/) and [Grey Software Projects](https://github.com/grey-software)
-- 🌱 I’m currently learning React for an upcoming app, NeighborHoop
+- 🔭 I’m currently working on GameFace and CardsMadeEasy frontend library
+- 🌱 I’m currently sharpening my backend skills for an upcoming app, NeighborHoop
 - 👯 I’m looking to collaborate on building communitites, working on iOS Applications and Chrome Extensions.
 - 📫 How to reach me: milind.vishnoi@mail.utoronto.ca
 - ⚡ Fun fact: I am a former national level squash player <img src="https://www.free-emoticons.com/files/sports-emoticons/13717.png" width="15px" />
@@ -38,11 +38,6 @@
 
 <br />
 <br />
-
-<hr />
-
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=milindvishnoi&show_icons=true&hide_border=true&theme=radical" />
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs?username=milindvishnoi&layout=compact&show_icons=true&theme=radical" />
 
 [website]: https://www.milindvishnoi.com/
 [linkedin]: https://www.linkedin.com/in/milindvishnoi/
