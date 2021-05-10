@@ -7,15 +7,15 @@
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 🔭 I’m currently working on HoopUp, a upcoming React Native app
-- 🌱 I’m currently learning Machine Learning basics
-- 👯 I’m looking to collaborate on building communitites, working on iOS Applications and ML projects.
+- 🌱 I’m currently learning Machine Learning and blockchain technology
+- 👯 I’m looking to collaborate on building communitites, working on iOS Applications and ML projects
 - 📫 How to reach me: milind.vishnoi@mail.utoronto.ca
 - ⚡ Fun fact: I am a former national level squash player
 
 ### Connect with me:
 
-[<img align="left" alt="milindvishnoi.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="milindvishnoi.com" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/841/841364.svg?token=exp=1620659683~hmac=218a8e5ec43600ea6fe2aeb484d95de3" />][website]
+[<img align="left" alt="LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1620659739~hmac=8ec1511940267862ce622e544c2817b8" />][linkedin]
 
 <br />
 
