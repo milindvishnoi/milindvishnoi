@@ -38,5 +38,5 @@
 <br />
 <br />
 
-[website]: https://www.milindvishnoi.com/
+[website]: https://milindvishnoi.netlify.app/
 [linkedin]: https://www.linkedin.com/in/milindvishnoi/
