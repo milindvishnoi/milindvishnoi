@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Machine Learning and blockchain technology
 - 👯 I’m looking to collaborate on building communitites, working on iOS Applications and ML projects
 - 📫 How to reach me: milind.vishnoi@mail.utoronto.ca
-- ⚡ Fun fact: I am a former national level squash player
+- ⚡ Fun fact: I am a former national level squash player who loves dogs
 
 ### Connect with me:
 
