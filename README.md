@@ -7,7 +7,7 @@
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 🔭 I’m currently working on HoopUp, a upcoming React Native app
-- 🌱 I’m currently learning Machine Learning and blockchain technology
+- 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on building communitites, working on iOS Applications and ML projects
 - 📫 How to reach me: milind.vishnoi@mail.utoronto.ca
 - ⚡ Fun fact: I am a former national level squash player who loves dogs
@@ -38,5 +38,5 @@
 <br />
 <br />
 
-[website]: https://milindvishnoi.netlify.app/
+[website]: https://milindvishnoi.herokuapp.com/
 [linkedin]: https://www.linkedin.com/in/milindvishnoi/
