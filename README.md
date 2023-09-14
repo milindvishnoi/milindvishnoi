@@ -1,15 +1,15 @@
 <div align="center">
-	<img src="https://github.com/milindvishnoi/milindvishnoi/blob/master/intro.svg" alt="HI I'M, MILIND VISHNOI👋">
+	<img src="https://github.com/milindvishnoi/milindvishnoi/blob/master/intro.svg" alt="Hello I'M, MILIND VISHNOI👋">
 </div>
 
-# I'm a Software Engineer & Full-time Computer Science Student.
+# I'm a Software Engineer
 
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 🌱 I’m currently learning Machine Learning and Angular
-- 👯 I’m looking to collaborate on building communitites, working on iOS Applications and ML projects
+- 👯 I’m looking to collaborate on building communities, working on iOS Applications and ML projects
 - 📫 How to reach me: milind.vishnoi@mail.utoronto.ca
-- ⚡ Fun fact: I am a former national level squash player who loves dogs :)
+- ⚡ Fun fact: I am a former national-level squash player who loves dogs :)
 
 ### Connect with me:
 
